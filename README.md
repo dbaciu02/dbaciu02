@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dbaciu02
 - 👀 I’m interested in coding, learning new programming languages, and expanding my knowledge every day!
-- 🌱 I’m currently learning Full Stack Engineering on Codecademy!
+- 🌱 I’m currently learning the Full Stack Engineering Certificate on Codecademy!
 - 💞️ I’m looking to collaborate on diverse projects, internships and any jobs!
 - 📫 How to reach me - through Linkedin or my instagram @dorabaciuuu!
 - 😄 Pronouns: she/her
