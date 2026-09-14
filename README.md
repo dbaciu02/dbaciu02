@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dbaciu02
+- 👋 Hi, I’m @dbaciu02 or Dora Baciu
 - 👀 I’m interested in coding, learning new programming languages, and expanding my knowledge every day!
-- 🌱 I’m currently learning the Full Stack Engineering Certificate on Codecademy!
+- 🌱 I’m currently in my CS Master's program at DePaul as well as tackling technical analysis on Coursera.
 - 💞️ I’m looking to collaborate on diverse projects, internships and any jobs!
-- 📫 How to reach me - through Linkedin or my instagram @dorabaciuuu!
+- 📫 How to reach me - through Linkedin or my instagram @dorabaciuuu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love powersports - big snowmobiler!
 
